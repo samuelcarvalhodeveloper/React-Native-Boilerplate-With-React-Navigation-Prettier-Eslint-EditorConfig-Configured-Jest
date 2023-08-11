@@ -33,6 +33,10 @@ React Native Boilerplate With React Navigation Prettier Eslint EditorConfig Conf
 
 `npm run start`
 
+**To Run The Tests:**
+
+`npm run test`
+
 <br />
 
 <h3 id="technologies">🚀  Technologies:</h3>
