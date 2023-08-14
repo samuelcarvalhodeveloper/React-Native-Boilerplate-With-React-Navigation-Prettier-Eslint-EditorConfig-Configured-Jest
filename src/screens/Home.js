@@ -1,4 +1,4 @@
-import CTA from "../components/home_screen/cta/CTA";
+import CTA from "../components/screens/home/cta/CTA";
 
 function Home() {
   return <CTA />;
